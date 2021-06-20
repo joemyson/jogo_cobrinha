@@ -1,0 +1,25 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+display: flex;
+flex-direction: column;
+width: 95vw;
+height: 95vh;    
+align-items: center;
+justify-content: center;
+background: transparent url('cobraAnimada.png');
+
+}
+ 
+.jogo h1{
+
+align-items: center;
+display: flex;
+justify-content: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
